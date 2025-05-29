@@ -48,4 +48,4 @@ Alexander Bilibin
 
 Aniketh Ganesh
 
-Yannick Trommsdorf
+Yannick Trommsdorff
