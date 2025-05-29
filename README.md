@@ -40,7 +40,3 @@ To design and control a ball-balancing platform with two modes:
 5. **PID Tuning**
    Adjust parameters to ensure smooth and accurate control.
 
----
-
-## Repository Structure
-
