@@ -45,5 +45,7 @@ To design and control a ball-balancing platform with two modes:
 ## Contributors
 
 Alexander Bilibin
+
 Aniketh Ganesh
+
 Yannick Trommsdorf
